@@ -1,0 +1,41 @@
+body {
+    background-color: lightcoral;
+}
+
+header {
+    background-image: url(buyme.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+}
+
+.silvo {
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    right: 400px;
+    bottom: 120px;
+   
+}
+
+h1 {
+    color: white;
+    font-size: 60px;
+    font-family: "Dancing Script";
+    font-weight: bold;
+    font-style:normal;
+}
+
+footer {
+    background-color: lightpink;
+    padding: 30px;
+    margin-right: 900px;
+    margin-left: 200px;
+
+}
+
+.text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 20px;
+
+}
